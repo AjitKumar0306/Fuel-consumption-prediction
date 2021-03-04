@@ -328,4 +328,4 @@ vehicle_config = {
     'Origin': [3, 2, 1]
 }
 
-predict_mpg(vehicle_config, final_model)
+print(predict_mpg(vehicle_config, final_model))
